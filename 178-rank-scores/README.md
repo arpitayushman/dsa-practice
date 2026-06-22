@@ -52,4 +52,6 @@ Scores table:
 | 3.65  | 3    |
 | 3.50  | 4    |
 +-------+------+
+	sudo apt-get install -y curl
+curl -fsSL https://deb.nodesource.com/setup_24.x | sudo -E bash -
 </pre>
